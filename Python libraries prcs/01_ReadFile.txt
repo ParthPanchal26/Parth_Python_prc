@@ -1,0 +1,27 @@
+{
+  "firstname": "Parth",
+  "surname": "Panchal",
+  "age": 19,
+  "enrolledCourse": "B.tech",
+  "college": "MBIT",
+  "address": "Tarapur",
+  "expertise": {
+    "language": ["JavaScript"],
+    "runTimeEnvironment": ["nodeJs"],
+    "framework": ["AngularJs", "ExpressJs"],
+    "libraries": ["reactJs"]
+  },
+  "projects": [
+    {
+      "projectType": "E-commerce website",
+      "projectName": "RedShop.com",
+      "framework": ["AngularJs", "ExpressJs"]
+    }
+  ],
+  "createdDate": "04-09-2024",
+  "createdAt": "17:35"
+}, {
+	"contentType": "JSON credentials!"
+}, {
+	"contentType": "JSON credentials!"
+}
